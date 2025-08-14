@@ -38,7 +38,7 @@ The first phase involves performing advanced SQL queries to answer critical busi
 ### Phase 2: Data Visualization – Power BI/Tableau Dashboard
 The second phase involves creating a dynamic, interactive dashboard using Power BI or Tableau to present key insights in a visually appealing and easy-to-understand format.
 
-#### 📊 Dashboard Metrics to Visualize:
+### 📊 Dashboard Metrics to Visualize:
 * Sales Performance Metrics:
 
 1. Total Sales Revenue: Overall revenue generated
@@ -64,27 +64,27 @@ The second phase involves creating a dynamic, interactive dashboard using Power 
 1. Monthly Sales Trends: Visualization of revenue trends over time
 2. Seasonality Analysis: Highlight peak sales periods, such as festive months
 ## 🔎 Key Insights from the Dashboard
-##### The Power BI/Tableau dashboard reveals several critical business insights, including:
+#### The Power BI/Tableau dashboard reveals several critical business insights, including:
 
 * Sales peaked in July ($1.7M) but saw a significant drop in Q4.
 * The North region generated 64.59% of total sales, but also has the longest average delivery times.
 * The Health & Beauty category generated the highest revenue ($1.45M), indicating an opportunity to expand this category further.
 * Sports & Leisure products have the highest return rates, suggesting potential quality or product description issues.
 ## 📌 Key Recommendations for Stakeholders
-#### Based on the analysis, here are key actionable recommendations to improve business performance:
+### Based on the analysis, here are key actionable recommendations to improve business performance:
 
 ##### 1. Boost Sales in Low-Performing Categories:
 
 * Focus marketing efforts on low-performing categories to increase overall revenue.
 * Introduce bundling and discount strategies to promote less popular products.
-##### Improve Delivery Efficiency in the North Region:
+##### 2. Improve Delivery Efficiency in the North Region:
 
 * Optimize delivery routes and logistics partners in the North region to reduce delivery times.
-##### Implement Customer Retention Programs:
+##### 3. Implement Customer Retention Programs:
 
 * Launch loyalty programs for low-spending customers to increase their purchase frequency.
 * Upsell and cross-sell strategies can help boost Average Order Value (AOV).
-##### Optimize Return Policies:
+##### 4. Optimize Return Policies:
 
 Review return policies for categories with higher return rates to improve customer satisfaction and reduce operational costs.
 # 📧 Connect with Me
